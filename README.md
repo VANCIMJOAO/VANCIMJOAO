@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;NestJS+%7C+Next.js+Expert;8%2B+Anos+de+Experiência;Apaixonado+por+Tecnologia)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Scientist;NestJS+%7C+Next.js+Expert;Python+%7C+ETL+%7C+Dashboards;8%2B+Anos+de+Experiência;Apaixonado+por+Tecnologia)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvancim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvancim@gmail.com)
@@ -12,14 +12,14 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções inovadoras e escaláveis. Com mais de **8 anos de experiência**, especializo-me em tecnologias modernas como **NestJS**, **Next.js**, e **TypeScript**.
+Sou um **Desenvolvedor Full-Stack & Data Scientist** apaixonado por criar soluções inovadoras e escaláveis. Com mais de **8 anos de experiência**, especializo-me em tecnologias modernas como **NestJS**, **Next.js**, **TypeScript**, e **Python para Data Science**.
 
-- 🔭 Atualmente trabalhando em projetos **full-stack** com **NestJS** e **Next.js**
-- 🌱 Sempre aprendendo sobre **arquiteturas escaláveis** e **melhores práticas**
+- 🔭 Atualmente trabalhando em projetos **full-stack** com **NestJS** e **Next.js**, e análises de dados com **Python**
+- 🌱 Sempre aprendendo sobre **arquiteturas escaláveis**, **Data Science** e **melhores práticas**
 - 👯 Procurando colaborar em **projetos open source** e **soluções inovadoras**
-- 💬 Me pergunte sobre **Node.js**, **React**, **TypeScript**, **PostgreSQL**
+- 💬 Me pergunte sobre **Node.js**, **React**, **TypeScript**, **PostgreSQL**, **Python**, **Data Science**
 - 📫 Como me encontrar: **jvancim@gmail.com**
-- ⚡ Curiosidade: Aventureiro na programação há mais de 8 anos!
+- ⚡ Curiosidade: Aventureiro na programação há mais de 8 anos, agora também explorando Data Science!
 
 ## 🛠️ Stack Tecnológica
 
@@ -42,6 +42,19 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções inovadoras e
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Science & Analytics
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Web Apps & Dashboards
+
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### DevOps & Ferramentas
 
@@ -69,7 +82,19 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções inovadoras e
 
 ## 🏆 Projetos Destacados
 
-### 🌟 [SkillShare Hub](https://github.com/VANCIMJOAO/skillshare-hub)
+### �🇷 [Brazil Energy Insights](https://github.com/VANCIMJOAO/brazil-energy-insights)
+
+**Análise Completa da Matriz Energética Brasileira - Portfolio Data Science**
+
+- 🔧 **Stack**: Python + Pandas + Plotly + Streamlit + Dash + FastAPI + Docker
+- 📊 **Features**: Pipeline ETL completo, dashboards interativos, ML forecasting, API REST
+- 🧪 **Qualidade**: 85%+ cobertura de testes, CI/CD, documentação profissional
+- ⚡ **Insights**: Análise de transição energética, desigualdade regional, ROI investimentos
+- 🎯 **Nível**: Senior Data Scientist - Portfolio completo production-ready
+
+**Demonstra competências em**: Data Science, ETL, Visualização, Web Apps, DevOps
+
+### �🌟 [SkillShare Hub](https://github.com/VANCIMJOAO/skillshare-hub)
 
 **Plataforma Full-Stack de Workshops Educacionais**
 
@@ -96,20 +121,24 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções inovadoras e
 
 ## 📈 Experiência Profissional
 
-### 💼 **Desenvolvedor Full-Stack**
+### 💼 **Desenvolvedor Full-Stack & Data Scientist**
 
 **2016 - Presente • 8+ Anos de Experiência**
 
 - 🚀 Desenvolvimento de aplicações **full-stack** escaláveis
+- 📊 **Análise de dados** e **pipelines ETL** para insights de negócio  
 - 🏗️ Arquitetura de **microserviços** e **APIs RESTful**
 - 🔄 Implementação de **CI/CD** e **DevOps practices**
-- 📊 **Liderança técnica** em projetos complexos
+- � **Dashboards interativos** e **visualizações de dados**
 - 🧪 **Cultura de testes** e **qualidade de código**
+- 🎯 **Liderança técnica** em projetos complexos
 
 ### 🎯 Especializações
 
 - **Backend**: APIs robustas com NestJS, autenticação JWT, WebSockets
 - **Frontend**: SPAs modernas com Next.js, React, design responsivo
+- **Data Science**: ETL pipelines, análise estatística, ML forecasting
+- **Dashboards**: Streamlit, Dash, visualizações interativas Plotly
 - **Database**: Modelagem avançada PostgreSQL, otimização de queries
 - **DevOps**: Containerização Docker, deploy automatizado
 - **Testing**: TDD, cobertura de testes, automação E2E
@@ -118,17 +147,23 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por criar soluções inovadoras e
 
 ```typescript
 const joaoVictor = {
-  languages: ["TypeScript", "JavaScript", "C#", "Python"],
+  languages: ["TypeScript", "JavaScript", "Python", "C#"],
   frameworks: {
-    backend: ["NestJS", "Express.js", ".NET Core"],
+    backend: ["NestJS", "Express.js", ".NET Core", "FastAPI"],
     frontend: ["Next.js", "React", "Vue.js"],
     mobile: ["React Native"],
+    dataScience: ["Streamlit", "Dash", "Jupyter"],
+  },
+  dataScience: {
+    libraries: ["Pandas", "NumPy", "Plotly", "Matplotlib", "Seaborn"],
+    ml: ["Scikit-learn", "Prophet", "ARIMA", "Statsmodels"],
+    visualization: ["Plotly", "Streamlit", "Dash", "Jupyter"],
   },
   databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
   cloud: ["Vercel", "Railway", "AWS", "Docker"],
-  tools: ["Git", "Jest", "Playwright", "Swagger"],
-  architecture: ["Microservices", "REST APIs", "GraphQL", "WebSockets"],
-  currentFocus: ["Performance Optimization", "Scalable Architecture"],
+  tools: ["Git", "Jest", "Playwright", "Swagger", "pytest"],
+  architecture: ["Microservices", "REST APIs", "GraphQL", "WebSockets", "ETL Pipelines"],
+  currentFocus: ["Performance Optimization", "Scalable Architecture", "Data Science & ML"],
 };
 ```
 
